@@ -25,6 +25,7 @@ public class VentanaInicio extends JFrame implements ActionListener, KeyListener
 		setLocationRelativeTo(null);
 		setResizable(false);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setVisible(true);
 		
 		
 		
